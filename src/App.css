@@ -82,6 +82,7 @@
 }
 .daycloudyicon{
     flex-basis: 30%;
+    max-height: 110px;
 }
 .airflow-rain-icon{
     width: 25px;
@@ -90,6 +91,14 @@
 }
 .loading-refresh-icon{
     margin-left: 10px;
+    width: 15px;
+    height: 15px;
+    cursor: pointer;
+}
+.cogicon{
+    position: absolute;
+    top: 30px;
+    right: 15px;
     width: 15px;
     height: 15px;
     cursor: pointer;

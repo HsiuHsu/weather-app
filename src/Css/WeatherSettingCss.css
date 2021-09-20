@@ -1,0 +1,91 @@
+.weatherSettingWrapper{
+   position: relative; 
+   background-color: #f9f9fa;
+   box-shadow: 0 1px 3px 0 #999999;
+   min-width: 360px;
+   padding: 30px 15px;
+}
+.title{
+   font-size: 28px; 
+   margin-bottom: 30px;
+   color: #121416;
+}
+.styledLabel{
+    display: block;
+    color: #121416;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+.styledSelect{
+    display: block;
+    box-sizing: border-box;
+    background: transparent;
+    border: 1px solid #121416;
+    color: #121416;
+    outline: none;
+    width: 100%;
+    max-width: 100%;
+    font-size: 16px;
+    padding: 7px 10px;
+    margin-bottom: 40px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    box-shadow: none;
+    outline: 0;
+}
+.buttonGroup{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+  user-select: none;
+  margin: 0;
+  letter-spacing: 0.3px;
+  line-height: 1;
+  cursor: pointer;
+  overflow: visible;
+  text-transform: none;
+  border: 1px solid transparent;
+  background-color: transparent;
+  height: 35px;
+  width: 80px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+.button :focus, .button .focus {
+    outline: 0;
+    box-shadow: none;
+}
+.button ::-moz-focus-inner {
+    padding: 0;
+    border-style: none;
+}
+.back{
+    color: #121416;
+    border-color: #121416;
+}
+.save{
+    color: white;
+    background-color: #40a9f3;
+}
+
+.dark-weatherBgColor{
+    background-color: #121416;
+    box-shadow: 0 1px 4px 0 rgba(12, 12, 13, 0.2), 0 0 0 1px rgba(0, 0, 0, 0.15);
+}
+.dark-text{
+    color: #f9f9fa;
+}
+.dark-styledselect{
+    border: 1px solid #f9f9fa;
+    color: #f9f9fa;
+}
+.dark-back{
+    color: #f9f9fa;
+    border-color: #f9f9fa;
+}
