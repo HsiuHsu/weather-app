@@ -2,7 +2,7 @@
 
 Practice Project (React)
 
-Open link : https://HsiuHsu.github.io/weather-app
+Open it : https://HsiuHsu.github.io/weather-app
 
 ## copyright
 
