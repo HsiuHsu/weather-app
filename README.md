@@ -1,6 +1,6 @@
 # weather-app
 
-Practice Project
+Practice Project(React)
 
 Open link : https://HsiuHsu.github.io/weather-app
 
