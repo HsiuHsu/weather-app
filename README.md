@@ -4,10 +4,10 @@ Practice Project (React)
 
 Open it : https://HsiuHsu.github.io/weather-app
 
-Learning from : 
 
-web : https://ithelp.ithome.com.tw/users/20103315/ironman/2668
+Learning : 
 
-github : https://github.com/pjchender/learn-react-from-hook-realtime-weather-app
+React Hooks、API(Weather data requests from OPEN WEATHER DATA)
 
-book : https://www.tenlong.com.tw/products/9789864345083
+
+Learning from book : 從 Hooks 開始，讓你的網頁 React 起來
